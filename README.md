@@ -10,4 +10,4 @@ Project scraping ulasan aplikasi pemerintah menggunakan Google Play Scraper dan 
 - Google Play Scraper
 
 ## Dataset
-Ulasan aplikasi Mobile JKN dari Google Play Store.
+Ulasan aplikasi My pertamina dari Google Play Store.
